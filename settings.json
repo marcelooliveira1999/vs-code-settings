@@ -1,0 +1,50 @@
+{
+  "editor.fontFamily": "Cascadia Code, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.5,
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+
+  "breadcrumbs.enabled": false,
+
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "symbols",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "none",
+  "workbench.editor.labelFormat": "short",
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": true,
+  "workbench.editor.showTabs": "multiple",
+
+  "explorer.compactFolders": false,
+
+  "livePreview.portNumber": 8080,
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "hidden",
+  "window.commandCenter": false,
+
+  "apc.header": {
+    "height": 38
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".pane-body": "padding: 8px 5px"
+  },
+  "symbols.hidesExplorerArrows": false,
+  "git.autofetch": true,
+  "workbench.layoutControl.enabled": false
+}
